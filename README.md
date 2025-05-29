@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-##DESCRIPTION: 
+##
 During my four-week internship at CodTech IT Solutions in the Machine Learning domain, I worked on a project titled "Decision Tree Implementation". The main objective of this project was to build a desktop-based application with a graphical user interface (GUI) that allows users to load a dataset, train a decision tree classifier, visualize the tree, and make predictions.
 
 The application was developed using Python. It uses the tkinter library for GUI, pandas for data handling, scikit-learn for the machine learning model, and matplotlib for visualizing the decision tree. The workflow was implemented in the following structured way:
@@ -33,13 +33,13 @@ The user can click a button to train the model. The features (independent variab
 The trained decision tree is visualized using plot_tree() from scikit-learn. A plot window opens to show the tree structure, with split criteria, feature names, and class labels clearly visible. This helps the user understand the decision-making process of the model.
 
 6. Exporting Tree as Image
-The user can export the visualized tree as a PNG image. This functionality is useful for reports or documentation. The image is saved using matplotlib.pyplot.savefig().
+The user can export the visualized tree as a PNG image. This functionality is useful for reports or documentation. The image is saved using matplotlib.pyplot.savefig()
 
 7. Prediction on New Input
 A form is generated dynamically based on the input features used during training. The user can enter values for a new record, and on clicking "Predict," the model predicts the class label for that record and displays the result in a message box.
 
 8. Displaying Accuracy and Output
-The application displays the model's accuracy in percentage format after training. A Text widget is used to show the full classification report for detailed performance evaluation
+The application displays the model's accuracy in percentage format after training. A Text widget is used to show the full classification report for detailed performance evaluation##
 
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/01cfcab6-ce14-4921-91ed-e1bbc406bc8d)
