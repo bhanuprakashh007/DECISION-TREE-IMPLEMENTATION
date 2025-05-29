@@ -43,3 +43,4 @@ The application displays the model's accuracy in percentage format after trainin
 
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/49ff55ec-7b82-4258-afd2-ecb354a4f6ad)
+![Image](https://github.com/user-attachments/assets/1509092f-07ce-4719-8a43-3c45cc29b325)
