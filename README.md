@@ -39,7 +39,8 @@ The user can export the visualized tree as a PNG image. This functionality is us
 A form is generated dynamically based on the input features used during training. The user can enter values for a new record, and on clicking "Predict," the model predicts the class label for that record and displays the result in a message box.
 
 8. Displaying Accuracy and Output
-The application displays the model's accuracy in percentage format after training. A Text widget is used to show the full classification report for detailed performance evaluation##
+The application displays the model's accuracy in percentage format after training. A Text widget is used to show the full classification report for detailed performance evaluation
+##
 
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/01cfcab6-ce14-4921-91ed-e1bbc406bc8d)
