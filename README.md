@@ -42,5 +42,6 @@ A form is generated dynamically based on the input features used during training
 The application displays the model's accuracy in percentage format after training. A Text widget is used to show the full classification report for detailed performance evaluation
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/166bc9d1-47e9-4570-baa0-92ed171fcb50)
 ![Image](https://github.com/user-attachments/assets/49ff55ec-7b82-4258-afd2-ecb354a4f6ad)
 ![Image](https://github.com/user-attachments/assets/1509092f-07ce-4719-8a43-3c45cc29b325)
